@@ -41,6 +41,7 @@ if (isset($_POST['submit'])) {
 <head>
     <title>User Registration</title>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
